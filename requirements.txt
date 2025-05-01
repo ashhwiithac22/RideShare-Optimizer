@@ -1,0 +1,7 @@
+Python >= 3.8
+streamlit
+networkx
+folium
+openrouteservice
+geopy
+dotenv
