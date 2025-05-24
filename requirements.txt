@@ -1,7 +1,16 @@
-Python >= 3.8
-streamlit
-networkx
-folium
-openrouteservice
-geopy
-dotenv
+streamlit==1.29.0
+networkx==3.2.1
+folium==0.15.1
+openrouteservice==2.3.0
+geopy==2.4.1
+python-dotenv==1.0.0
+streamlit-folium==0.15.1
+geocoder==1.38.1
+polyline==1.6.1
+pandas==2.0.3
+numpy==1.24.4
+requests==2.31.0
+scipy==1.11.2
+shapely==2.0.2
+branca==0.7.0
+matplotlib==3.7.3
