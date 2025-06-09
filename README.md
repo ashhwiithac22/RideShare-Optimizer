@@ -30,11 +30,12 @@ Minimum Spanning Tree – Prim’s algorithm
 Traveling Salesman Problem – Branch & Bound approach
 
 🗂 Project Structure
-ride_sharing_app/
 
-├── app.py             # Streamlit main application file
+     ride_sharing_app/
 
-└── requirements.txt   # Python dependencies
+             ├── app.py             # Streamlit main application file
+
+             └── requirements.txt   # Python dependencies
 
 
 
@@ -42,20 +43,22 @@ ride_sharing_app/
 
 1.Clone the repository
 
-git clone https://github.com/yourusername/ride-sharing-app.git
+       git clone https://github.com/yourusername/ride-sharing-app.git
 
-cd ride-sharing-app
+       cd ride-sharing-app
 
 
 
 2.Install dependencies
-pip install -r requirements.txt
+
+        pip install -r requirements.txt
 
 
 
 
 3.Run the application
-streamlit run app.py
+        
+        streamlit run app.py
 
 
 
@@ -71,19 +74,20 @@ Plan a single ride or multi-stop trip
 View results as optimized routes with distance, time, and cost
 
 📌 Requirements
-Python 3.8 or above
 
-Required libraries:
+     Python 3.8 or above
 
-streamlit
+     Required libraries:
 
-networkx
+     streamlit
 
-folium
+     networkx
 
-openrouteservice
+     folium
 
-pandas
+     openrouteservice
+
+      pandas
 
 numpy
 
